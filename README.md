@@ -7,7 +7,8 @@ I am a **strong** proponent for the use of technology as a tool to uplift health
 I can confidently write programs in 
 - Java (including frameworks such as Spring/Boot
 - SQL
-- Assembly 
+- Assembly
+
 With a more novice understanding of
 - R/Python
 - PowerBI
