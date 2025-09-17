@@ -3,7 +3,14 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - Project_1.md
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-minimal
 title: Sam's Web Portfolio
 description: This is my portfolio/blogspace for ITCS-5122-001-specific projects! Primarily academic updates
