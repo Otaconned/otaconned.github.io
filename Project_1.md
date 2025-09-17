@@ -15,13 +15,13 @@
       Accessibility measures the available infrastructure present,   
       Relevance centers the amount of information available in an area (and in that area’s language)  
       Readiness assesses a populations’ skills and ability to use the internet effectively.   
-![][image1]  
+![][Otaconned/otaconned.github.io/blob/main/map.png]  
    The map reveals some critical information about the state of gender disparities worldwide — the gap is severe in financially insecure and developing nations (who are struggling to meet metrics such as relevance and affordability on a whole), but what is interesting is the way it persists even into wealthier countries.   
    It’s important to recognize that the gap does not exclusively measure one aspect or function of the internet — this isn’t a disparity across social media or within computer science fields. This is a fundamental divide that prohibits women from entering the tech economy by failing to equip them with the necessary tools, effectively stunting their digital literacy.  
-![][image2]  
+![][Otaconned/otaconned.github.io/blob/main/bubble]  
    Digital literacy — defined as the ability to find, evaluate, and [communicate information](https://en.wikipedia.org/wiki/Digital_literacy) using digital media — is a skillset that women are prevented from acquiring due to this gap. Without repeated, sustained and early access to the internet, women lose out on crucial time to learn about the foundational skills that build a career in technology.  
 Addressing the divide comes from providing an adequate toolset for women to utilize: e-inclusivity policies and programs are gaining traction globally. They come in the form of women-centric summits, education-based ordinances, and better policy — and their effect is undeniable.   
-![][image3]
+![][Otaconned/otaconned.github.io/blob/main/bar]
 
    The World Bank Group addresses affordability and accessibility for women by helping to address infrastructure shortages and provide more cost-sustainable technology — effectively eliminating a major challenge that prevents women from ever interacting with the devices and programs that could help them learn.  
    Women in Internet Governance seeks to cover relevance and readiness by providing education tailored to the communities they’re working with, helping women to build the skills and readiness for engaging with the internet. It isn’t enough to just provide people with a computer or handheld, they need support to use them effectively. This is achieved through not only non-profits like WIG, but by local and even national policies centering on education initiatives.  
