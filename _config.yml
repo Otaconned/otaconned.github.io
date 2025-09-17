@@ -1,3 +1,10 @@
+plugins: - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - Project_1.md
 theme: jekyll-theme-minimal
 title: Sam's Web Portfolio
 description: This is my portfolio/blogspace for ITCS-5122-001-specific projects! Primarily academic updates
+
