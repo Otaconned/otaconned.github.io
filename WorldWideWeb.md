@@ -1,6 +1,8 @@
----
+layout: page
+title: "World Wide Web: Less Than Global"
+permalink: /WorldWideWeb
 
-# **THE WORLD WIDE WEB: LESS THAN GLOBAL**
+---
 
 #### *A story about internet equality*
 
